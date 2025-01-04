@@ -6,3 +6,4 @@ turboLogger(
   'Eu consegui criar uma nova mensagem sem afetar a versão princiapal do sistema!',
   'darkgreen'
 );
+turboLogger('Daniel Dev deixou uma contribuição nesse projeto!', 'white');
